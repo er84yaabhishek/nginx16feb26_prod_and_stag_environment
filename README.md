@@ -4,34 +4,6 @@
 
 ```markdown
 # 🚀 NGINX + Docker Reverse Proxy Setup (Production & Staging)
-
-[![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)](https://www.docker.com/)  
-[![NGINX](https://img.shields.io/badge/NGINX-Reverse%20Proxy-brightgreen?logo=nginx)](https://www.nginx.com/)  
-[![SSL](https://img.shields.io/badge/SSL-LetsEncrypt-yellow?logo=letsencrypt)](https://letsencrypt.org/)  
-
-> Clean, production-ready setup with **NGINX inside Docker**, reverse proxy, SSL, and separate production + staging environments.
-
----
-
-## 📌 Table of Contents
-
-- [Project Structure](#project-structure)  
-- [Docker Setup](#docker-setup)  
-  - [Production](#production-docker-compose)  
-  - [Staging](#staging-docker-compose)  
-  - [Direct Testing](#direct-testing-docker-only)  
-- [NGINX Reverse Proxy](#nginx-reverse-proxy-setup-server-level)  
-  - [Production Config](#production-reverse-proxy-config)  
-  - [Staging Config](#staging-reverse-proxy-config)  
-- [SSL Setup](#ssl-setup-lets-encrypt)  
-- [Final Checks](#final-check)  
-- [Working URLs](#final-working-urls)  
-- [Architecture](#architecture)  
-- [Features](#features--benefits)  
-- [Next Steps](#next-steps-optional)  
-
----
-
 ## 📁 Project Structure
 
 

@@ -250,19 +250,6 @@ Your App Files
 * ✅ Clean, professional DevOps structure
 * ✅ Easy to extend for Laravel / Node.js / PHP apps
 
----
-
-## 🔥 Next Steps (Optional)
-
-* Single docker-compose for prod + stag together
-* Docker internal network (no localhost)
-* Laravel / Node.js production ready setup
-* CI/CD basic structure for deployments
-
-```
-
----
 
 
-Chahoge mai wo bhi bana doon?
-```
+

@@ -34,7 +34,6 @@
 
 ## 📁 Project Structure
 
-```
 
 abhi16feb26/
 │
